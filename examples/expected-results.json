@@ -1,0 +1,8 @@
+{
+  "source.flawed": {"accepted": false, "reason": "not_current_source"},
+  "source.corrected": {"accepted": true, "reason": "fixture_source_consistent"},
+  "completion.flawed": {"accepted": false, "reason": "missing_delivery_evidence"},
+  "completion.corrected": {"accepted": true, "reason": "fixture_delivery_consistent_not_live_proof"},
+  "learning.flawed": {"accepted": false, "reason": "insufficient_confirmations"},
+  "learning.corrected": {"accepted": true, "reason": "fixture_learning_gate_satisfied"}
+}

@@ -1,0 +1,16 @@
+{
+  "flawed": {
+    "sources": [
+      {"id": "fictional-price-v1", "status": "superseded", "price": 80},
+      {"id": "fictional-price-v2", "status": "current", "price": 95}
+    ],
+    "answer": {"source_id": "fictional-price-v1", "price": 80}
+  },
+  "corrected": {
+    "sources": [
+      {"id": "fictional-price-v1", "status": "superseded", "price": 80},
+      {"id": "fictional-price-v2", "status": "current", "price": 95}
+    ],
+    "answer": {"source_id": "fictional-price-v2", "price": 95}
+  }
+}

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the project and author when discussing these educational examples."
+title: "Personal AI assistant starter: Build a personal AI assistant you can check"
+type: software
+authors:
+  - family-names: Reichert
+    given-names: Chrysti
+repository-code: "https://github.com/unnamedmistress/personal-ai-assistant-starter"
+url: "https://www.myaievolution.com/ai-assistant-coaching"
+license: MIT

@@ -1,0 +1,20 @@
+{
+  "flawed": {
+    "expected_destination": "reviewer@example.invalid",
+    "artifact_version": "fictional-brief-v2",
+    "claimed_state": "complete",
+    "delivery": null
+  },
+  "corrected": {
+    "expected_destination": "reviewer@example.invalid",
+    "artifact_version": "fictional-brief-v2",
+    "claimed_state": "complete",
+    "delivery": {
+      "kind": "synthetic_delivery",
+      "destination": "reviewer@example.invalid",
+      "artifact_version": "fictional-brief-v2",
+      "state": "delivered",
+      "receipt_id": "fictional-receipt-001"
+    }
+  }
+}

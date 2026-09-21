@@ -1,0 +1,19 @@
+{
+  "flawed": {
+    "proposed_status": "standing_rule",
+    "confirmations": [
+      {"id": "fictional-check-1", "source_id": "fictional-event-1", "independently_reviewed": true}
+    ],
+    "owner_approved": false,
+    "regression_passed": false
+  },
+  "corrected": {
+    "proposed_status": "standing_rule",
+    "confirmations": [
+      {"id": "fictional-check-1", "source_id": "fictional-event-1", "independently_reviewed": true},
+      {"id": "fictional-check-2", "source_id": "fictional-event-2", "independently_reviewed": true}
+    ],
+    "owner_approved": true,
+    "regression_passed": true
+  }
+}
